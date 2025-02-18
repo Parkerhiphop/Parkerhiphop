@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parker Chang.</h1>
 <h3 align="center">A software developer focused on frontend, passionate about crafting something meaningful.</h3>
 
-- 🔭 I’m currently working on **CMS projects, utilizing Next.js and WordPress.**
+- 🔭 My work is about **CMS projects, utilizing Next.js and WordPress.**
 
 - 🌱 I’m currently learning **K8S and Kafka.**
 
