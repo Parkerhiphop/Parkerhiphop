@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Parker Chang.</h1>
 <h3 align="center">A software developer focused on frontend, passionate about crafting something meaningful.</h3>
 
 - 🔭 My work is about **CMS projects, utilizing Next.js and WordPress.**
 
-- 🌱 I’m currently learning **K8S and Kafka.**
+- 🌱 I’m currently learning and contributing **Kafka** with [opensource4you](http://readme.opensource4you.tw/)
 
-- 📝 I regularly write articles on [https://www.parkerchang.life](https://www.parkerchang.life)
+- 📝 I randomly write articles on [https://www.parkerchang.life](https://www.parkerchang.life).
 
-- 💬 Ask me about **React, Next.js, WordPress or some random FE topics.**
+- 💬 Feel free to ask me about **React, Next.js, WordPress or some random FE topics.**
 
 - 📫 Reach me at: **parkerhiphop027@gmail.com**
 
