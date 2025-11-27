@@ -1,12 +1,10 @@
-<h3 align="center">A software developer focused on frontend, passionate about crafting something meaningful.</h3>
+<h3 align="center">A software developer passionate about crafting something meaningful.</h3>
 
-- 🔭 My work is about **CMS projects, utilizing Next.js and WordPress.**
-
-- 🌱 I’m currently learning and contributing **Kafka** with [opensource4you](http://readme.opensource4you.tw/)
+- 🌱 I’m currently learning and contributing **Kafka**, **Airflow** with [opensource4you](http://readme.opensource4you.tw/)
 
 - 📝 I randomly write articles on [https://www.parkerchang.life](https://www.parkerchang.life).
 
-- 💬 Feel free to ask me about **React, Next.js, WordPress or some random FE topics.**
+- 💬 My previous experience is mainly about **React, Next.js, WordPress**, Feel free to ask me about them.
 
 - 📫 Reach me at: **parkerhiphop027@gmail.com**
 
