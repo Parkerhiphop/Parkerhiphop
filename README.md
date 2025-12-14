@@ -4,8 +4,6 @@
 
 - 📝 I randomly write articles on [https://www.parkerchang.life](https://www.parkerchang.life).
 
-- 💬 My previous experience is mainly about **React, Next.js, WordPress**, Feel free to ask me about them.
-
 - 📫 Reach me at: **parkerhiphop027@gmail.com**
 
 - ⚡ Fun fact: Majored in **Philosophy**. Reading Novels from [Brandon Sanderson](https://www.brandonsanderson.com/). Fan of [鈴木愛理](https://www.airisuzuki-officialweb.com/), [milet](https://www.milet.jp/) and [緑黄色社会](https://www.ryokushaka.com/).
