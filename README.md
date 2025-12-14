@@ -18,10 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,sass,tailwind,vuetify,webpack,jest)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=java,python,php,laravel,wordpress,nodejs,nestjs,graphql,postgresql,mysql,redis)](https://skillicons.dev)
 
-[![Backend Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,nestjs,graphql,postgresql,mysql,redis)](https://skillicons.dev)
-
-[![Other Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,vercel,postman)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=docker,git,github,aws)](https://skillicons.dev)
 
 </p>
