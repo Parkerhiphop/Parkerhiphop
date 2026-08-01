@@ -2,11 +2,14 @@
 
 - 🌱 I’m currently learning and contributing **Kafka**, **Airflow** with [opensource4you](http://readme.opensource4you.tw/)
 
-- 📝 I randomly write articles on [https://www.parkerchang.life](https://www.parkerchang.life).
+- 📝 I randomly write articles on [https://www.parkerchang.life](https://www.parkerchang.life), supporting zh-Tw, en and jp.
 
 - 📫 Reach me at: **parkerhiphop027@gmail.com**
 
-- ⚡ Fun fact: Majored in **Philosophy**. Reading Novels from [Brandon Sanderson](https://www.brandonsanderson.com/). Fan of [鈴木愛理](https://www.airisuzuki-officialweb.com/), [milet](https://www.milet.jp/) and [緑黄色社会](https://www.ryokushaka.com/).
+- ⚡ Fun fact:
+- Majored in **Philosophy**.
+- My favorite author: [Brandon Sanderson](https://www.brandonsanderson.com/) and [伊坂幸太郎](https://isakakotaro.ctbctb.com/).
+- Fan of [鈴木愛理](https://www.airisuzuki-officialweb.com/), [milet](https://www.milet.jp/) and [緑黄色社会](https://www.ryokushaka.com/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
