@@ -1,6 +1,6 @@
 <h3 align="center">A software developer passionate about crafting something meaningful.</h3>
 
-- 🌱 I’m currently learning and contributing **Kafka**, **Airflow** with [opensource4you](http://readme.opensource4you.tw/)
+- 🌱 I’m currently learning and contributing **Kafka** with [opensource4you](http://readme.opensource4you.tw/)
 
 - 📝 I randomly write articles on [https://www.parkerchang.life](https://www.parkerchang.life), supporting zh-Tw, en and jp.
 
