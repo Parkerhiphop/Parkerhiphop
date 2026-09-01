@@ -7,9 +7,9 @@
 - 📫 Reach me at: **parkerhiphop027@gmail.com**
 
 - ⚡ Fun fact:
-- Majored in **Philosophy**.
-- My favorite author: [Brandon Sanderson](https://www.brandonsanderson.com/) and [伊坂幸太郎](https://isakakotaro.ctbctb.com/).
-- Fan of [鈴木愛理](https://www.airisuzuki-officialweb.com/), [milet](https://www.milet.jp/) and [緑黄色社会](https://www.ryokushaka.com/).
+  - Majored in **Philosophy**.
+  - My favorite author: [Brandon Sanderson](https://www.brandonsanderson.com/) and [伊坂幸太郎](https://isakakotaro.ctbctb.com/).
+  - Fan of [鈴木愛理](https://www.airisuzuki-officialweb.com/), [milet](https://www.milet.jp/) and [緑黄色社会](https://www.ryokushaka.com/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
