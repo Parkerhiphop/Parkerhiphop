@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning and contributing **Kafka** with [opensource4you](http://readme.opensource4you.tw/)
 
-- 📫 Reach me at: **parkerhiphop027@gmail.com**
+- 📫 Reach me at: **path@parkerchang.life**
 
 - ⚡ Fun fact:
   - Majored in **Philosophy**.
