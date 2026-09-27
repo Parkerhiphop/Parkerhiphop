@@ -1,4 +1,4 @@
-<h3 align="center">A software developer passionate about crafting something meaningful.</h3>
+<h3 align="center">A software developer passionate about building fun and engaging products.</h3>
 
 - 🌱 I’m currently learning and contributing **Kafka** with [opensource4you](http://readme.opensource4you.tw/)
 
