@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-[![Backend Skills](https://skillicons.dev/icons?i=java,python,php,laravel,wordpress,nodejs,nestjs,graphql,postgresql,mysql,redis)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=java,php,laravel,wordpress,nodejs,nestjs,graphql,postgresql,mysql,redis)](https://skillicons.dev)
 
 [![Other Skills](https://skillicons.dev/icons?i=docker,git,github,aws)](https://skillicons.dev)
 
